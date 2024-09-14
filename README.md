@@ -135,7 +135,6 @@ recognize_speech_from_wav("output_directory/some_audio.wav", lang='fr-FR')  # Re
 ```
 
 ## To-Do / Future Enhancements
-- **Support for multiple languages** in the same video for multilingual content.
 - **Parallel processing** of audio chunks to improve performance.
 - **Error handling** for cases when speech recognition or translation fails.
 - Add more translation services for greater flexibility.
