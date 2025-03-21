@@ -1,2 +1,7 @@
 venv
 output_directory
+*.mp4
+*.mp3
+*.srt
+*.json
+*.wav
